@@ -1,6 +1,6 @@
 package com.example.demo.test;
 
-import com.example.demo.common.util.JsonUtil;
+import com.example.demo.util.JsonUtil;
 
 public class TestDemo {
 
